@@ -1,5 +1,5 @@
 /*
- * Check if the LinkedList is palindrome or not
+ * Check if the Linked List is palindrome or not
  */
 
 public class PalindromeLinkedList {
